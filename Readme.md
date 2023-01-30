@@ -54,7 +54,7 @@ Link: <a href="https://vidyo.ai/">https://vidyo.ai/</a></p>
 </li>
 <li class="has-line-data" data-line-start="42" data-line-end="45">
 <p class="has-line-data" data-line-start="42" data-line-end="44">Maverick: Generate personalized videos at scale<br>
-Link:<a href="https://lnkd.in/dmrkz_ah">https://lnkd.in/dmrkz_ah</a></p>
+Link:<a href="https://www.trymaverick.com/">https://www.trymaverick.com/</a></p>
 </li>
 <li class="has-line-data" data-line-start="45" data-line-end="48">
 <p class="has-line-data" data-line-start="45" data-line-end="47">Quickchat: AI chatbots that automate customer service charts<br>
@@ -74,23 +74,23 @@ Link: <a href="https://cleanup.pictures/">https://cleanup.pictures/</a></p>
 </li>
 <li class="has-line-data" data-line-start="57" data-line-end="60">
 <p class="has-line-data" data-line-start="57" data-line-end="59">Resumeworded: Improve your resume and LinkedIn profile<br>
-Link:  <a href="https://lnkd.in/d9EurcnX">https://lnkd.in/d9EurcnX</a></p>
+Link:  <a href="https://www.resumeworded.com/">https://www.resumeworded.com/</a></p>
 </li>
 <li class="has-line-data" data-line-start="60" data-line-end="63">
 <p class="has-line-data" data-line-start="60" data-line-end="62">Looka: Design your own beautiful brand<br>
 Link: <a href="https://looka.com/">https://looka.com/</a></p>
 </li>
-<li class="has-line-data" data-line-start="63" data-line-end="66">
+<!-- <li class="has-line-data" data-line-start="63" data-line-end="66">
 <p class="has-line-data" data-line-start="63" data-line-end="65">theresanaiforthat: Comprehensive database of AIs available for every task<br>
 Link: <a href="https://lnkd.in/dKhqaaF3">https://lnkd.in/dKhqaaF3</a></p>
-</li>
+</li> -->
 <li class="has-line-data" data-line-start="66" data-line-end="69">
 <p class="has-line-data" data-line-start="66" data-line-end="68">Synthesia: Create AI videos by simply typing in text.<br>
 Link: <a href="https://www.synthesia.io/">https://www.synthesia.io/</a></p>
 </li>
 <li class="has-line-data" data-line-start="69" data-line-end="72">
 <p class="has-line-data" data-line-start="69" data-line-end="71">descript: New way to make video and podcasts<br>
-Link: <a href="https://lnkd.in/d_Kdj35E">https://lnkd.in/d_Kdj35E</a></p>
+Link: <a href="https://www.descript.com/">https://www.descript.com/</a></p>
 </li>
 <li class="has-line-data" data-line-start="72" data-line-end="75">
 <p class="has-line-data" data-line-start="72" data-line-end="74">Otter: Capture and share insights from your meetings<br>
@@ -102,7 +102,7 @@ Link: <a href="https://inkforall.com/">https://inkforall.com/</a></p>
 </li>
 <li class="has-line-data" data-line-start="78" data-line-end="80">
 <p class="has-line-data" data-line-start="78" data-line-end="80">Thundercontent: Generate Content with AI<br>
-Link: <a href="https://lnkd.in/djFxMZsZ">https://lnkd.in/djFxMZsZ</a></p>
+Link: <a href="https://thundercontent.com/">https://thundercontent.com/</a></p>
 </li>
 
 <li class="has-line-data" data-line-start="81" data-line-end="83">
