@@ -160,4 +160,68 @@ To provide mass & public access to research papers
 Link: <a href="https://sci-hub.hkvisa.net/">https://sci-hub.hkvisa.net/</a></p>
 </li>
 
+<li class="has-line-data" data-line-start="108" data-line-end="111">
+<p class="has-line-data" data-line-start="108" data-line-end="111">
+Jasper is the AI Content Generator that helps you and your team break through creative blocks to create amazing, original content 10X faster.
+<br>
+Link: <a href="https://www.jasper.ai/">https://www.jasper.ai//</a></p>
+</li>
+
+<li class="has-line-data" data-line-start="111" data-line-end="114">
+<p class="has-line-data" data-line-start="111" data-line-end="114">
+Create videos from plain text in minutes
+
+<br>
+Link: <a href="https://www.synthesia.io/">https://www.synthesia.io/</a></p>
+</li>
+
+<li class="has-line-data" data-line-start="114" data-line-end="117">
+<p class="has-line-data" data-line-start="114" data-line-end="117">
+DALL·E 2 is a new AI system that can create realistic images and art from a description in natural language.
+<br>
+Link: <a href="https://openai.com/dall-e-2/">https://openai.com/dall-e-2/</a></p>
+</li>
+
+<li class="has-line-data" data-line-start="117" data-line-end="120">
+<p class="has-line-data" data-line-start="117" data-line-end="120">
+to automate your content workflow - one post, multiple platforms.
+<br>
+Link: <a href="https://repurpose.io/">https://repurpose.io/</a></p>
+</li>
+
+<li class="has-line-data" data-line-start="120" data-line-end="123">
+<p class="has-line-data" data-line-start="120" data-line-end="123">
+Supercharge your writing with the most advanced AI writing assistant.
+<br>
+Link: <a href="https://jenni.ai/">https://jenni.ai/</a></p>
+</li>
+
+<li class="has-line-data" data-line-start="123" data-line-end="126">
+<p class="has-line-data" data-line-start="123" data-line-end="126">
+Generative storytelling
+
+<br>
+Link: <a href="https://beta.tome.app/">https://beta.tome.app/</a></p>
+</li>
+
+<li class="has-line-data" data-line-start="126" data-line-end="129">
+<p class="has-line-data" data-line-start="126" data-line-end="129">
+Shedulling , time
+<br>
+Link: <a href="https://www.timelyai.com/">https://www.timelyai.com/</a></p>
+</li>
+
+<li class="has-line-data" data-line-start="129" data-line-end="132">
+<p class="has-line-data" data-line-start="129" data-line-end="132">AI enabled, real people's voices
+<br>
+Link: <a href="https://murf.ai/">https://murf.ai/</a></p>
+</li>
+
+<li class="has-line-data" data-line-start="132" data-line-end="135">
+<p class="has-line-data" data-line-start="132" data-line-end="135">
+Multipurpose chatbot
+<br>
+Link: <a href="https://www.chatbot.com/integrations/livechat/">https://www.chatbot.com/integrations/livechat/</a></p>
+</li>
+
 </ol>
