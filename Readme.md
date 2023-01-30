@@ -111,7 +111,53 @@ Link: <a href="https://www.wonsulting.com/networkai">https://www.wonsulting.com/
 </li>
 
 <li class="has-line-data" data-line-start="84" data-line-end="87">
-<p class="has-line-data" data-line-start="84" data-line-end="87">ResumeAi by Wonsulting:Improve your resume with our AI bullet point generator so you can land your dream job.<br>
+<p class="has-line-data" data-line-start="84" data-line-end="87">The DoNotPay app is the home of the world's first robot lawyer. Fight corporations, beat bureaucracy and sue anyone at the press of a button.<br>
+Link: <a href="https://donotpay.com"></a>https://donotpay.com</p>
+</li>
+
+<li class="has-line-data" data-line-start="87" data-line-end="90">
+<p class="has-line-data" data-line-start="87" data-line-end="90">AI MUSIC GENERATOR.<br>
+Link: <a href="https://soundful.com/">https://soundful.com/</a></p>
+</li>
+
+<li class="has-line-data" data-line-start="90" data-line-end="93">
+<p class="has-line-data" data-line-start="90" data-line-end="93">Chatbot directly on
+WhatsApp<br>
+Link: <a href="https://www.mightygpt.com/">https://www.mightygpt.com/</a></p>
+</li>
+
+<li class="has-line-data" data-line-start="93" data-line-end="96">
+<p class="has-line-data" data-line-start="93" data-line-end="96">ResumeAi by Wonsulting:Improve your resume with our AI bullet point generator so you can land your dream job.<br>
 Link: <a href="https://www.wonsulting.com/networkai">https://resumai.wonsulting.com/builder</a></p>
 </li>
+
+<li class="has-line-data" data-line-start="96" data-line-end="99">
+<p class="has-line-data" data-line-start="96" data-line-end="99">Future-Facing
+Generative AI
+Produce customized videos featuring talking avatars at a touch of a button, giving businesses and creators superpowers.
+
+<br>
+Link: <a href="https://www.d-id.com/">https://www.d-id.com/</a></p>
+</li>
+
+<li class="has-line-data" data-line-start="99" data-line-end="102">
+<p class="has-line-data" data-line-start="99" data-line-end="102">Generate formatted bibliographies, citations, and works cited automatically<br>
+Link: <a href="https://www.mybib.com/">https://www.mybib.com/</a></p>
+</li>
+
+<li class="has-line-data" data-line-start="102" data-line-end="105">
+<p class="has-line-data" data-line-start="102" data-line-end="105">
+Study. Learn. Share.
+Search among millions of questions and answers and pass your exams
+<br>
+Link: <a href="https://www.docsity.com/en/">https://www.docsity.com/en/</a></p>
+</li>
+
+<li class="has-line-data" data-line-start="105" data-line-end="108">
+<p class="has-line-data" data-line-start="105" data-line-end="108">
+To provide mass & public access to research papers
+<br>
+Link: <a href="https://sci-hub.hkvisa.net/">https://sci-hub.hkvisa.net/</a></p>
+</li>
+
 </ol>
