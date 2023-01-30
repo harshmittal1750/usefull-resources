@@ -104,4 +104,14 @@ Link: <a href="https://inkforall.com/">https://inkforall.com/</a></p>
 <p class="has-line-data" data-line-start="78" data-line-end="80">Thundercontent: Generate Content with AI<br>
 Link: <a href="https://lnkd.in/djFxMZsZ">https://lnkd.in/djFxMZsZ</a></p>
 </li>
+
+<li class="has-line-data" data-line-start="81" data-line-end="83">
+<p class="has-line-data" data-line-start="81" data-line-end="83">NetworkAi by Wonsulting:Make networking easier with our personalized LinkedIn connection message generator.<br>
+Link: <a href="https://www.wonsulting.com/networkai">https://www.wonsulting.com/networkai</a></p>
+</li>
+
+<li class="has-line-data" data-line-start="84" data-line-end="87">
+<p class="has-line-data" data-line-start="84" data-line-end="87">ResumeAi by Wonsulting:Improve your resume with our AI bullet point generator so you can land your dream job.<br>
+Link: <a href="https://www.wonsulting.com/networkai">https://resumai.wonsulting.com/builder</a></p>
+</li>
 </ol>
