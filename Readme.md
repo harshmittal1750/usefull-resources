@@ -1,5 +1,28 @@
-<p class="has-line-data" data-line-start="1" data-line-end="2">AI Tools that are very usefull other than ChatGpt</p>
+## AI Tools that are very usefull other than ChatGpt
 <ol>
+
+### Text to Image/Video/audio:
+
+<li class="has-line-data" data-line-start="3" data-line-end="6">
+<p class="has-line-data" data-line-start="3" data-line-end="5">Stable Diffusion is a latent text-to-image diffusion model capable of generating photo-realistic images given any text input, cultivates autonomous freedom to produce incredible imagery, empowers billions of people to create stunning art within seconds<br>
+Link: <a href="https://krisp.ai/">https://stablediffusionweb.com/</a></p>
+</li>
+<li class="has-line-data" data-line-start="111" data-line-end="114">
+<p class="has-line-data" data-line-start="111" data-line-end="114">
+Create videos from plain text in minutes
+
+<br>
+Link: <a href="https://www.synthesia.io/">https://www.synthesia.io/</a></p>
+</li>
+<li class="has-line-data" data-line-start="66" data-line-end="69">
+<p class="has-line-data" data-line-start="66" data-line-end="68">Synthesia: Create AI videos by simply typing in text.<br>
+Link: <a href="https://www.synthesia.io/">https://www.synthesia.io/</a></p>
+</li>
+<li class="has-line-data" data-line-start="18" data-line-end="21">
+<p class="has-line-data" data-line-start="18" data-line-end="20">Illustroke: Create killer vector images from text prompts<br>
+Link: <a href="https://illustroke.com/">https://illustroke.com/</a></p>
+</li>
+
 <li class="has-line-data" data-line-start="3" data-line-end="6">
 <p class="has-line-data" data-line-start="3" data-line-end="5">Krisp: Krisp’s AI removes background voices, noises, and echo from your calls, giving you peace of call<br>
 Link: <a href="https://krisp.ai/">https://krisp.ai/</a></p>
@@ -20,10 +43,7 @@ Link: <a href="https://podcastle.ai/">https://podcastle.ai/</a></p>
 <p class="has-line-data" data-line-start="15" data-line-end="17">Flair: Design branded content in a flash<br>
 Link: <a href="https://flair.ai/">https://flair.ai/</a></p>
 </li>
-<li class="has-line-data" data-line-start="18" data-line-end="21">
-<p class="has-line-data" data-line-start="18" data-line-end="20">Illustroke: Create killer vector images from text prompts<br>
-Link: <a href="https://illustroke.com/">https://illustroke.com/</a></p>
-</li>
+
 <li class="has-line-data" data-line-start="21" data-line-end="24">
 <p class="has-line-data" data-line-start="21" data-line-end="23">Patterned: Generate the exact patterns you need for and design<br>
 Link: <a href="https://www.patterned.ai/">https://www.patterned.ai/</a></p>
@@ -84,10 +104,7 @@ Link: <a href="https://looka.com/">https://looka.com/</a></p>
 <p class="has-line-data" data-line-start="63" data-line-end="65">theresanaiforthat: Comprehensive database of AIs available for every task<br>
 Link: <a href="https://lnkd.in/dKhqaaF3">https://lnkd.in/dKhqaaF3</a></p>
 </li> -->
-<li class="has-line-data" data-line-start="66" data-line-end="69">
-<p class="has-line-data" data-line-start="66" data-line-end="68">Synthesia: Create AI videos by simply typing in text.<br>
-Link: <a href="https://www.synthesia.io/">https://www.synthesia.io/</a></p>
-</li>
+
 <li class="has-line-data" data-line-start="69" data-line-end="72">
 <p class="has-line-data" data-line-start="69" data-line-end="71">descript: New way to make video and podcasts<br>
 Link: <a href="https://www.descript.com/">https://www.descript.com/</a></p>
@@ -167,13 +184,7 @@ Jasper is the AI Content Generator that helps you and your team break through cr
 Link: <a href="https://www.jasper.ai/">https://www.jasper.ai//</a></p>
 </li>
 
-<li class="has-line-data" data-line-start="111" data-line-end="114">
-<p class="has-line-data" data-line-start="111" data-line-end="114">
-Create videos from plain text in minutes
 
-<br>
-Link: <a href="https://www.synthesia.io/">https://www.synthesia.io/</a></p>
-</li>
 
 <li class="has-line-data" data-line-start="114" data-line-end="117">
 <p class="has-line-data" data-line-start="114" data-line-end="117">
