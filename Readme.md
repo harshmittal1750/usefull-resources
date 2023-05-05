@@ -19,6 +19,13 @@ Link: <a href="https://www.synthesia.io/">https://www.synthesia.io/</a></p>
 Link: <a href="https://www.synthesia.io/">https://www.synthesia.io/</a></p>
 </li>
 
+<li class="has-line-data" data-line-start="18" data-line-end="21">
+<p class="has-line-data" data-line-start="18" data-line-end="20">Illustroke: Create killer vector images from text prompts<br>
+Link: <a href="https://illustroke.com/">https://illustroke.com/</a></p>
+</li>
+
+
+
 ### Chatbots
 <li class="has-line-data" data-line-start="45" data-line-end="48">
 <p class="has-line-data" data-line-start="45" data-line-end="47">Quickchat: AI chatbots that automate customer service charts<br>
@@ -36,6 +43,8 @@ WhatsApp<br>
 Link: <a href="https://www.mightygpt.com/">https://www.mightygpt.com/</a></p>
 </li>
 
+
+
 ### Music/Audio
 <li class="has-line-data" data-line-start="87" data-line-end="90">
 <p class="has-line-data" data-line-start="87" data-line-end="90">AI MUSIC GENERATOR.<br>
@@ -44,13 +53,6 @@ Link: <a href="https://soundful.com/">https://soundful.com/</a></p>
 <li class="has-line-data" data-line-start="6" data-line-end="9">
 <p class="has-line-data" data-line-start="6" data-line-end="8">Beatoven: Create unique royalty-free music that elevates your story<br>
 Link: <a href="https://www.beatoven.ai/">https://www.beatoven.ai/</a></p>
-</li>
-
-
-
-<li class="has-line-data" data-line-start="18" data-line-end="21">
-<p class="has-line-data" data-line-start="18" data-line-end="20">Illustroke: Create killer vector images from text prompts<br>
-Link: <a href="https://illustroke.com/">https://illustroke.com/</a></p>
 </li>
 
 <li class="has-line-data" data-line-start="3" data-line-end="6">
@@ -62,6 +64,48 @@ Link: <a href="https://krisp.ai/">https://krisp.ai/</a></p>
 <p class="has-line-data" data-line-start="9" data-line-end="11">Cleanvoice: Automatically edit your podcast episodes<br>
 Link: <a href="https://cleanvoice.ai/">https://cleanvoice.ai/</a></p>
 </li>
+
+
+
+
+### productivity/study
+<li class="has-line-data" data-line-start="36" data-line-end="39">
+<p class="has-line-data" data-line-start="36" data-line-end="38">Unbounce Smart Copy: Write high-performing cold emails at scale<br>
+Link: <a href="https://unbounce.com/">https://unbounce.com/</a></p>
+</li>
+<li class="has-line-data" data-line-start="102" data-line-end="105">
+<p class="has-line-data" data-line-start="102" data-line-end="105">
+Study. Learn. Share.
+Search among millions of questions and answers and pass your exams
+<br>
+Link: <a href="https://www.docsity.com/en/">https://www.docsity.com/en/</a></p>
+</li>
+<li class="has-line-data" data-line-start="93" data-line-end="96">
+<p class="has-line-data" data-line-start="93" data-line-end="96">ResumeAi by Wonsulting:Improve your resume with our AI bullet point generator so you can land your dream job.<br>
+Link: <a href="https://www.wonsulting.com/networkai">https://resumai.wonsulting.com/builder</a></p>
+</li>
+<li class="has-line-data" data-line-start="81" data-line-end="83">
+<p class="has-line-data" data-line-start="81" data-line-end="83">NetworkAi by Wonsulting:Make networking easier with our personalized LinkedIn connection message generator.<br>
+Link: <a href="https://www.wonsulting.com/networkai">https://www.wonsulting.com/networkai</a></p>
+</li>
+<li class="has-line-data" data-line-start="57" data-line-end="60">
+<p class="has-line-data" data-line-start="57" data-line-end="59">Resumeworded: Improve your resume and LinkedIn profile<br>
+Link:  <a href="https://www.resumeworded.com/">https://www.resumeworded.com/</a></p>
+</li>
+
+
+### content creation
+<li class="has-line-data" data-line-start="39" data-line-end="42">
+<p class="has-line-data" data-line-start="39" data-line-end="41">Vidyo: Make short-form vids from long-form content in just a few clicks<br>
+Link: <a href="https://vidyo.ai/">https://vidyo.ai/</a></p>
+</li><li class="has-line-data" data-line-start="27" data-line-end="30">
+<p class="has-line-data" data-line-start="27" data-line-end="29">Copy: AI Generated copy, that actually increases conversion<br>
+Link:<a href="https://www.copy.ai/">https://www.copy.ai/</a></p>
+</li><li class="has-line-data" data-line-start="24" data-line-end="27">
+<p class="has-line-data" data-line-start="24" data-line-end="26">Stockimg: Generate the perfect stock photo you need, every time<br>
+Link: <a href="https://stockimg.ai/">https://stockimg.ai/</a></p>
+</li>
+### others
 <li class="has-line-data" data-line-start="12" data-line-end="15">
 <p class="has-line-data" data-line-start="12" data-line-end="14">Podcastle: Studio quality recording, right from your computer<br>
 Link: <a href="https://podcastle.ai/">https://podcastle.ai/</a></p>
@@ -75,14 +119,8 @@ Link: <a href="https://flair.ai/">https://flair.ai/</a></p>
 <p class="has-line-data" data-line-start="21" data-line-end="23">Patterned: Generate the exact patterns you need for and design<br>
 Link: <a href="https://www.patterned.ai/">https://www.patterned.ai/</a></p>
 </li>
-<li class="has-line-data" data-line-start="24" data-line-end="27">
-<p class="has-line-data" data-line-start="24" data-line-end="26">Stockimg: Generate the perfect stock photo you need, every time<br>
-Link: <a href="https://stockimg.ai/">https://stockimg.ai/</a></p>
-</li>
-<li class="has-line-data" data-line-start="27" data-line-end="30">
-<p class="has-line-data" data-line-start="27" data-line-end="29">Copy: AI Generated copy, that actually increases conversion<br>
-Link:<a href="https://www.copy.ai/">https://www.copy.ai/</a></p>
-</li>
+
+
 <li class="has-line-data" data-line-start="30" data-line-end="33">
 <p class="has-line-data" data-line-start="30" data-line-end="32">CopyMonkey: Create Amazon listings in seconds<br>
 Link: <a href="http://copymonkey.ai/">http://copymonkey.ai/</a></p>
@@ -91,14 +129,8 @@ Link: <a href="http://copymonkey.ai/">http://copymonkey.ai/</a></p>
 <p class="has-line-data" data-line-start="33" data-line-end="35">Ocoya: Create and schedule social media content 10x faster<br>
 Link: <a href="https://www.ocoya.com/">https://www.ocoya.com/</a></p>
 </li>
-<li class="has-line-data" data-line-start="36" data-line-end="39">
-<p class="has-line-data" data-line-start="36" data-line-end="38">Unbounce Smart Copy: Write high-performing cold emails at scale<br>
-Link: <a href="https://unbounce.com/">https://unbounce.com/</a></p>
-</li>
-<li class="has-line-data" data-line-start="39" data-line-end="42">
-<p class="has-line-data" data-line-start="39" data-line-end="41">Vidyo: Make short-form vids from long-form content in just a few clicks<br>
-Link: <a href="https://vidyo.ai/">https://vidyo.ai/</a></p>
-</li>
+
+
 <li class="has-line-data" data-line-start="42" data-line-end="45">
 <p class="has-line-data" data-line-start="42" data-line-end="44">Maverick: Generate personalized videos at scale<br>
 Link:<a href="https://www.trymaverick.com/">https://www.trymaverick.com/</a></p>
@@ -117,10 +149,7 @@ Link: <a href="https://soundraw.io/">https://soundraw.io/</a></p>
 <p class="has-line-data" data-line-start="54" data-line-end="56">Cleanup: Remove any wanted object, defect, people, or text from your pictures in seconds<br>
 Link: <a href="https://cleanup.pictures/">https://cleanup.pictures/</a></p>
 </li>
-<li class="has-line-data" data-line-start="57" data-line-end="60">
-<p class="has-line-data" data-line-start="57" data-line-end="59">Resumeworded: Improve your resume and LinkedIn profile<br>
-Link:  <a href="https://www.resumeworded.com/">https://www.resumeworded.com/</a></p>
-</li>
+
 <li class="has-line-data" data-line-start="60" data-line-end="63">
 <p class="has-line-data" data-line-start="60" data-line-end="62">Looka: Design your own beautiful brand<br>
 Link: <a href="https://looka.com/">https://looka.com/</a></p>
@@ -147,10 +176,6 @@ Link: <a href="https://inkforall.com/">https://inkforall.com/</a></p>
 Link: <a href="https://thundercontent.com/">https://thundercontent.com/</a></p>
 </li>
 
-<li class="has-line-data" data-line-start="81" data-line-end="83">
-<p class="has-line-data" data-line-start="81" data-line-end="83">NetworkAi by Wonsulting:Make networking easier with our personalized LinkedIn connection message generator.<br>
-Link: <a href="https://www.wonsulting.com/networkai">https://www.wonsulting.com/networkai</a></p>
-</li>
 
 <li class="has-line-data" data-line-start="84" data-line-end="87">
 <p class="has-line-data" data-line-start="84" data-line-end="87">The DoNotPay app is the home of the world's first robot lawyer. Fight corporations, beat bureaucracy and sue anyone at the press of a button.<br>
@@ -158,10 +183,7 @@ Link: <a href="https://donotpay.com"></a>https://donotpay.com</p>
 </li>
 
 
-<li class="has-line-data" data-line-start="93" data-line-end="96">
-<p class="has-line-data" data-line-start="93" data-line-end="96">ResumeAi by Wonsulting:Improve your resume with our AI bullet point generator so you can land your dream job.<br>
-Link: <a href="https://www.wonsulting.com/networkai">https://resumai.wonsulting.com/builder</a></p>
-</li>
+
 
 <li class="has-line-data" data-line-start="96" data-line-end="99">
 <p class="has-line-data" data-line-start="96" data-line-end="99">Future-Facing
@@ -177,13 +199,7 @@ Link: <a href="https://www.d-id.com/">https://www.d-id.com/</a></p>
 Link: <a href="https://www.mybib.com/">https://www.mybib.com/</a></p>
 </li>
 
-<li class="has-line-data" data-line-start="102" data-line-end="105">
-<p class="has-line-data" data-line-start="102" data-line-end="105">
-Study. Learn. Share.
-Search among millions of questions and answers and pass your exams
-<br>
-Link: <a href="https://www.docsity.com/en/">https://www.docsity.com/en/</a></p>
-</li>
+
 
 <li class="has-line-data" data-line-start="105" data-line-end="108">
 <p class="has-line-data" data-line-start="105" data-line-end="108">
