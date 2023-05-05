@@ -1,7 +1,7 @@
 ## AI Tools that are very usefull other than ChatGpt
 <ol>
 
-### Text to Image/Video/audio:
+### Text to Image/Video:
 
 <li class="has-line-data" data-line-start="3" data-line-end="6">
 <p class="has-line-data" data-line-start="3" data-line-end="5">Stable Diffusion is a latent text-to-image diffusion model capable of generating photo-realistic images given any text input, cultivates autonomous freedom to produce incredible imagery, empowers billions of people to create stunning art within seconds<br>
@@ -18,6 +18,36 @@ Link: <a href="https://www.synthesia.io/">https://www.synthesia.io/</a></p>
 <p class="has-line-data" data-line-start="66" data-line-end="68">Synthesia: Create AI videos by simply typing in text.<br>
 Link: <a href="https://www.synthesia.io/">https://www.synthesia.io/</a></p>
 </li>
+
+### Chatbots
+<li class="has-line-data" data-line-start="45" data-line-end="48">
+<p class="has-line-data" data-line-start="45" data-line-end="47">Quickchat: AI chatbots that automate customer service charts<br>
+Link: <a href="https://www.quickchat.ai/">https://www.quickchat.ai/</a></p>
+</li>
+<li class="has-line-data" data-line-start="132" data-line-end="135">
+<p class="has-line-data" data-line-start="132" data-line-end="135">
+Multipurpose chatbot
+<br>
+Link: <a href="https://www.chatbot.com/integrations/livechat/">https://www.chatbot.com/integrations/livechat/</a></p>
+</li>
+<li class="has-line-data" data-line-start="90" data-line-end="93">
+<p class="has-line-data" data-line-start="90" data-line-end="93">Chatbot directly on
+WhatsApp<br>
+Link: <a href="https://www.mightygpt.com/">https://www.mightygpt.com/</a></p>
+</li>
+
+### Music/Audio
+<li class="has-line-data" data-line-start="87" data-line-end="90">
+<p class="has-line-data" data-line-start="87" data-line-end="90">AI MUSIC GENERATOR.<br>
+Link: <a href="https://soundful.com/">https://soundful.com/</a></p>
+</li>
+<li class="has-line-data" data-line-start="6" data-line-end="9">
+<p class="has-line-data" data-line-start="6" data-line-end="8">Beatoven: Create unique royalty-free music that elevates your story<br>
+Link: <a href="https://www.beatoven.ai/">https://www.beatoven.ai/</a></p>
+</li>
+
+
+
 <li class="has-line-data" data-line-start="18" data-line-end="21">
 <p class="has-line-data" data-line-start="18" data-line-end="20">Illustroke: Create killer vector images from text prompts<br>
 Link: <a href="https://illustroke.com/">https://illustroke.com/</a></p>
@@ -27,10 +57,7 @@ Link: <a href="https://illustroke.com/">https://illustroke.com/</a></p>
 <p class="has-line-data" data-line-start="3" data-line-end="5">Krisp: Krisp’s AI removes background voices, noises, and echo from your calls, giving you peace of call<br>
 Link: <a href="https://krisp.ai/">https://krisp.ai/</a></p>
 </li>
-<li class="has-line-data" data-line-start="6" data-line-end="9">
-<p class="has-line-data" data-line-start="6" data-line-end="8">Beatoven: Create unique royalty-free music that elevates your story<br>
-Link: <a href="https://www.beatoven.ai/">https://www.beatoven.ai/</a></p>
-</li>
+
 <li class="has-line-data" data-line-start="9" data-line-end="12">
 <p class="has-line-data" data-line-start="9" data-line-end="11">Cleanvoice: Automatically edit your podcast episodes<br>
 Link: <a href="https://cleanvoice.ai/">https://cleanvoice.ai/</a></p>
@@ -76,10 +103,8 @@ Link: <a href="https://vidyo.ai/">https://vidyo.ai/</a></p>
 <p class="has-line-data" data-line-start="42" data-line-end="44">Maverick: Generate personalized videos at scale<br>
 Link:<a href="https://www.trymaverick.com/">https://www.trymaverick.com/</a></p>
 </li>
-<li class="has-line-data" data-line-start="45" data-line-end="48">
-<p class="has-line-data" data-line-start="45" data-line-end="47">Quickchat: AI chatbots that automate customer service charts<br>
-Link: <a href="https://www.quickchat.ai/">https://www.quickchat.ai/</a></p>
-</li>
+
+
 <li class="has-line-data" data-line-start="48" data-line-end="51">
 <p class="has-line-data" data-line-start="48" data-line-end="50">Puzzle: Build an AI-powered knowledge base for your team and customers<br>
 Link: <a href="https://www.puzzlelabs.ai/">https://www.puzzlelabs.ai/</a></p>
@@ -132,16 +157,6 @@ Link: <a href="https://www.wonsulting.com/networkai">https://www.wonsulting.com/
 Link: <a href="https://donotpay.com"></a>https://donotpay.com</p>
 </li>
 
-<li class="has-line-data" data-line-start="87" data-line-end="90">
-<p class="has-line-data" data-line-start="87" data-line-end="90">AI MUSIC GENERATOR.<br>
-Link: <a href="https://soundful.com/">https://soundful.com/</a></p>
-</li>
-
-<li class="has-line-data" data-line-start="90" data-line-end="93">
-<p class="has-line-data" data-line-start="90" data-line-end="93">Chatbot directly on
-WhatsApp<br>
-Link: <a href="https://www.mightygpt.com/">https://www.mightygpt.com/</a></p>
-</li>
 
 <li class="has-line-data" data-line-start="93" data-line-end="96">
 <p class="has-line-data" data-line-start="93" data-line-end="96">ResumeAi by Wonsulting:Improve your resume with our AI bullet point generator so you can land your dream job.<br>
@@ -228,11 +243,6 @@ Link: <a href="https://www.timelyai.com/">https://www.timelyai.com/</a></p>
 Link: <a href="https://murf.ai/">https://murf.ai/</a></p>
 </li>
 
-<li class="has-line-data" data-line-start="132" data-line-end="135">
-<p class="has-line-data" data-line-start="132" data-line-end="135">
-Multipurpose chatbot
-<br>
-Link: <a href="https://www.chatbot.com/integrations/livechat/">https://www.chatbot.com/integrations/livechat/</a></p>
-</li>
+
 
 </ol>
